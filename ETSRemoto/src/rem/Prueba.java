@@ -7,4 +7,5 @@ public class Prueba {
 	int a = 24 + 56;
 	int b = 4 + 5;
 	int t = 24 + 56;
+	int e = 45 + 30;
 }
